@@ -9,7 +9,7 @@ import random
 
 def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
     '''
-    Image data split to train data and test data
+    Image data split to train data and validation data
 
     parameter
     ------------
@@ -39,7 +39,7 @@ def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
         print(train_dir + 'is already created.')
 
     try:
-        validation_dir = os.path.join(base_dir, 'test')
+        validation_dir = os.path.join(base_dir, 'val')
         os.mkdir(validation_dir)
     except FileExistsError:
         print(validation_dir + 'is already created.')
