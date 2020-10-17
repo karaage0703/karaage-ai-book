@@ -7,7 +7,8 @@ import sys
 import shutil
 import random
 
-def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
+
+def image_dir_train_val_split(original_dir, base_dir, train_size=0.8):
     '''
     Image data split to train data and validation data
 
@@ -25,12 +26,10 @@ def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
     except FileExistsError:
         print(base_dir + 'is already created.')
 
-    #クラス分のフォルダ名の取得
+    # get class name from directory name
     dir_lists = os.listdir(original_dir)
     dir_lists = [f for f in dir_lists if os.path.isdir(os.path.join(original_dir, f))]
     original_dir_path = [os.path.join(original_dir, p) for p in dir_lists]
-
-    num_class = len(dir_lists)
 
     try:
         train_dir = os.path.join(base_dir, 'train')
@@ -60,8 +59,7 @@ def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
             print(val_class_dir_path + 'is already created.')
         val_dir_path_lists += [val_class_dir_path]
 
-
-    for i,path in enumerate(original_dir_path):
+    for i, path in enumerate(original_dir_path):
         files_class = os.listdir(path)
         random.shuffle(files_class)
         num_bunkatu = int(len(files_class) * train_size)
@@ -81,8 +79,7 @@ def image_dir_train_val_sprit(original_dir, base_dir, train_size=0.8):
 if __name__ == '__main__':
     param = sys.argv
     if (len(param) != 4):
-        print ("Usage: $ python " + param[0] + " original_directory splited_directory split_rate")
+        print("Usage: $ python " + param[0] + " original_directory splited_directory split_rate")
         quit()
 
-
-    image_dir_train_val_sprit(param[1], param[2], train_size=float(param[3]))
+    image_dir_train_val_split(param[1], param[2], train_size=float(param[3]))
