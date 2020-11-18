@@ -18,4 +18,4 @@
 
 | Link  | Description |
 |:-|:-|
-|  |  |
+| [aozorabunko](https://github.com/aozorabunko/aozorabunko)  | 青空文庫のGitHubリポジトリ |
