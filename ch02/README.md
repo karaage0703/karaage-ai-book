@@ -5,11 +5,13 @@
 
 | Notebook  | Description |
 |:-|:-|
-| [02_karaage_ai_book_image_classification_tf2_x.ipynb](https://colab.research.google.com/drive/13kLjdoz23fQIRT_zYR196pSxFEPHOS2k?usp=sharing)  | 画像判別(TensorFlow 2.x) |
-| [02_karaage_ai_book_image_classification_pytorch.ipynb](https://colab.research.google.com/drive/1Uk0ubje44ul77wK0nKMcCfZzef_t4ySX?usp=sharing) | 画像判別(PyTorch) |
+| [02_karaage_ai_book_image_classification_tf2_x.ipynb](https://colab.research.google.com/drive/13kLjdoz23fQIRT_zYR196pSxFEPHOS2k?usp=sharing)  | 画像分類(TensorFlow 2.x) |
+| [02_karaage_ai_book_image_classification_pytorch.ipynb](https://colab.research.google.com/drive/1Uk0ubje44ul77wK0nKMcCfZzef_t4ySX?usp=sharing) | 画像分類(PyTorch) |
 | [02_karaage_ai_book_image_filter_zebbra.ipynb](https://colab.research.google.com/drive/18LggsSnbZ3MXMCQHN9e9ZRFQwquSSGvk?usp=sharing) | CNNの解説 |
-| [02_karaage_ai_book_image_classification_on_camera.ipynb](https://colab.research.google.com/drive/1STkkDO22z-jgmnqCVyntEwUzvimM9_j7?usp=sharing) | 画像判別リアルタイムデモ |
-| [02_karaage_ai_book_image_classification_performance.ipynb](https://colab.research.google.com/drive/1eXMZxk565Ibyh3VDesOFtWRMNMQeHf8-?usp=sharing) | 画像判別性能向上 |
+| [02_karaage_ai_book_image_classification_on_camera.ipynb](https://colab.research.google.com/drive/1STkkDO22z-jgmnqCVyntEwUzvimM9_j7?usp=sharing) | 画像分類リアルタイムデモ |
+| [02_karaage_ai_book_image_classification_performance.ipynb](https://colab.research.google.com/drive/1eXMZxk565Ibyh3VDesOFtWRMNMQeHf8-?usp=sharing) | AIモデル性能向上 |
+| [02_karaage_ai_book_image_classification_on_camera.ipynb](https://colab.research.google.com/drive/1St8V0KmbhBHzHtTRltoR4tFNi3e1VR9o?usp=sharing) | 画像分類リアルタイムデモ（性能向上版） |
+
 
 ## 関連ノートブックリンク
 　書籍で取り上げたノートブックへのリンクです。
