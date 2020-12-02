@@ -20,3 +20,8 @@
 |:-|:-|
 | [albumentations-examples.ipynb](https://colab.research.google.com/drive/1iz58evOQ1CSLStytq-sEczLy4y0UCnAk?usp=sharing)  | albumentationsを使った画像水増しのサンプル |
 | [Deep_Sharingan.ipynb](https://colab.research.google.com/drive/1knmxKYLSiF1-5yo9rcCLWdeLSh7_v-B7?usp=sharing)  | Deep写輪眼 on Google Colab |
+
+## 関連リンク
+　書籍で取り上げたリンクです。
+
+- [GCPでのディープラーニング学習環境構築方法](https://qiita.com/karaage0703/items/77d6d75db9105a5e8983)
