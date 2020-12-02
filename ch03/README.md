@@ -18,4 +18,10 @@
 
 | Link  | Description |
 |:-|:-|
-| [aozorabunko](https://github.com/aozorabunko/aozorabunko)  | 青空文庫のGitHubリポジトリ |
+| [gpt2-japanese.ipynb](https://colab.research.google.com/drive/12j-dusjNKGKq808TMVDwrGk7KGnyTJfk?usp=sharing)  | GPT-2での文章生成リポジトリ |
+
+
+## 関連リンク
+　書籍で取り上げたリンクです。
+
+- [青空文庫のGitHubリポジトリ](https://github.com/aozorabunko/aozorabunko)
