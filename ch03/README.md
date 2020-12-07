@@ -19,6 +19,7 @@
 | Link  | Description |
 |:-|:-|
 | [gpt2-japanese.ipynb](https://colab.research.google.com/drive/12j-dusjNKGKq808TMVDwrGk7KGnyTJfk?usp=sharing)  | GPT-2での文章生成リポジトリ |
+| [deepjazz.ipynb](https://colab.research.google.com/drive/1P12CJEqvJy0SpT3c5o0Xk8roujsLCf5o?usp=sharing)  | GPT-2での文章生成リポジトリ |
 
 
 ## 関連リンク
