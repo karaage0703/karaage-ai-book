@@ -12,14 +12,15 @@
 | [03_karaage_ai_book_blog_to_text.ipynb](https://colab.research.google.com/drive/1kpCpvHZWmE6h4uKf65NlWiwP38gcpMxM?usp=sharing) | ブログデータのスクレイピング |
 | [03_karaage_ai_book_tweet_to_text.ipynb](https://colab.research.google.com/drive/1DkQ_AnDdrkLRBJPeInxHIQp1FZK0sMqj?usp=sharing) | Twitterのアーカイブをテキストデータへ変換 |
 | [03_karaage_ai_book_tweet_example.ipynb](https://colab.research.google.com/drive/1xkzT5lfhYNPRwA811SvrkpyUacIBTLPu?usp=sharing) | Twitterのデータを使った例 |
+| [03_karaage_ai_book_bert_example.ipynb](https://colab.research.google.com/drive/1tFI9H7DQyS2dyhWgKskfu_PpUcTSHdr_?usp=sharing) | BERTの使用例 |
 
 ## 関連ノートブックリンク
 　書籍で取り上げたノートブックへのリンクです。
 
 | Link  | Description |
 |:-|:-|
-| [gpt2-japanese.ipynb](https://colab.research.google.com/drive/12j-dusjNKGKq808TMVDwrGk7KGnyTJfk?usp=sharing)  | GPT-2での文章生成リポジトリ |
-| [deepjazz.ipynb](https://colab.research.google.com/drive/1P12CJEqvJy0SpT3c5o0Xk8roujsLCf5o?usp=sharing)  | GPT-2での文章生成リポジトリ |
+| [gpt2-japanese.ipynb](https://colab.research.google.com/drive/12j-dusjNKGKq808TMVDwrGk7KGnyTJfk?usp=sharing)  | GPT-2での文章生成 |
+| [deepjazz.ipynb](https://colab.research.google.com/drive/1P12CJEqvJy0SpT3c5o0Xk8roujsLCf5o?usp=sharing)  | deepjazzで音楽を生成 |
 
 
 ## 関連リンク
