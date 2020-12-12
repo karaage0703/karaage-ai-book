@@ -10,7 +10,7 @@
 | [02_karaage_ai_book_image_filter_zebbra.ipynb](https://colab.research.google.com/drive/18LggsSnbZ3MXMCQHN9e9ZRFQwquSSGvk?usp=sharing) | CNNの解説 |
 | [02_karaage_ai_book_image_classification_on_camera.ipynb](https://colab.research.google.com/drive/1STkkDO22z-jgmnqCVyntEwUzvimM9_j7?usp=sharing) | 画像分類リアルタイムデモ |
 | [02_karaage_ai_book_image_classification_performance.ipynb](https://colab.research.google.com/drive/1eXMZxk565Ibyh3VDesOFtWRMNMQeHf8-?usp=sharing) | AIモデル性能向上 |
-| [02_karaage_ai_book_image_classification_on_camera.ipynb](https://colab.research.google.com/drive/1St8V0KmbhBHzHtTRltoR4tFNi3e1VR9o?usp=sharing) | 画像分類リアルタイムデモ（性能向上版） |
+| [02_karaage_ai_book_image_classification_on_camera_2.ipynb](https://colab.research.google.com/drive/1St8V0KmbhBHzHtTRltoR4tFNi3e1VR9o?usp=sharing) | 画像分類リアルタイムデモ（性能向上版） |
 
 
 ## 関連ノートブックリンク
