@@ -27,3 +27,4 @@
 　書籍で取り上げたリンクです。
 
 - [青空文庫のGitHubリポジトリ](https://github.com/aozorabunko/aozorabunko)
+- [2019年末版 形態素解析器の比較](https://qiita.com/hi-asano/items/aaf406db875f1c81530e)
