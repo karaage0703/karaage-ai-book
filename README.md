@@ -1,5 +1,7 @@
-# karaage-ai-book
+# 「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」サポートサイト
+　本リポジトリは、書籍[人気ブロガーからあげ先生のとにかく楽しいAI自作教室](https://amzn.to/349WcUV)のサポートサイトとなります。
 
+<a href="https://www.amazon.co.jp/gp/product/4296108409/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=k-gh-22&linkId=1569d96a4a24b720c38c75c271a7efbb&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4296108409&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=k-gh-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=k-gh-22&language=ja_JP&l=li3&o=9&a=4296108409" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Google Colab ノートブック
 　以下のアイコンをクリックすると、Google Colab上で本リポジトリのノートブックを実行できます。
