@@ -16,6 +16,7 @@
 ## 関連リンク
 　書籍で取り上げたリンクです。
 
+- [PyRoombaAdapter公式マニュアル](https://atsushisakai.github.io/PyRoombaAdapter/)
 - [画像認識AIで制御したルンバの動画(Instagram)](https://www.instagram.com/p/B7gERcFAhLG/) 
 - [[Tensorflow Lite] Various Neural Network Model quantization methods for Tensorflow Lite (Weight Quantization, Integer Quantization, Full Integer Quantization, Float16 Quantization, EdgeTPU). As of May 05, 2020.](https://qiita.com/PINTO/items/008c54536fca690e0572) 
 - [Raspberry Pi4 単体で TensorFlow Lite はどれくらいの速度で動く？](https://qiita.com/terryky/items/243000fcfcb89af11510) 
