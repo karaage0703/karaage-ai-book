@@ -13,8 +13,8 @@
 |:-|:-|
 | [06_karaage_ai_book_tflite_convert.ipynb](https://colab.research.google.com/drive/1AutFtt-bh0JEQI45Ue4w99_LNe2qXn-9?usp=sharing)  | モデル軽量化 |
 
-## 関連リンク
-　書籍で取り上げたリンクです。
+## 関連リンク・情報
+　書籍で取り上げたリンクや関連情報です。
 
 - [PyRoombaAdapter公式マニュアル](https://atsushisakai.github.io/PyRoombaAdapter/)
 - [画像認識AIで制御したルンバの動画(Instagram)](https://www.instagram.com/p/B7gERcFAhLG/) 
