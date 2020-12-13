@@ -11,6 +11,8 @@
 
 [ERRATA](ERRATA)
 
+　本書の誤りの連絡は、お手数ですが本リポジトリの[issue](https://github.com/karaage0703/karaage-ai-book/issues)に投稿をお願いいたします。
+
 ## 参考書籍・参考サイト・論文
 　書籍で紹介した、他書籍、サイト、論文の情報は、以下参照ください。
 
