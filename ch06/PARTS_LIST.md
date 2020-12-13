@@ -19,8 +19,9 @@
 | Parts name  | Description |
 |:-|:-|
 | [ルンバ 606](https://amzn.to/2LxLFwg) | ルンバの 500/600/700/800 シリーズが対応しています |
-| [FTDI USBシリアル変換アダプター](https://amzn.to/347P2Ah) | ルンバとの通信に必要です |
-| [ジャンパワイヤ(オス～オス)](https://amzn.to/3oFnOsO) | ルンバとの通信に必要です |
+| [FTDI USBシリアル変換アダプタ](https://amzn.to/347P2Ah) | ルンバとの通信に必要です |
+| [USBケーブル A- Micro B](https://amzn.to/2KnQQy1) | ラズパイとシリアル変換アダプタを接続します |
+| [ジャンパワイヤ(オス～オス)](https://amzn.to/3oFnOsO) | シリアル変換アダプタとルンバを接続します |
 | [Anker PowerCore Fusion 5000](https://amzn.to/3oRXFXT) | モバイルバッテリです。他のものでも良いですが3A以上推奨です |
 
 
