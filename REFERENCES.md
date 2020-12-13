@@ -36,11 +36,11 @@ AIで漫画「NARUTO」の写輪眼を再現するソフト「Deep写輪眼」�
 
 ## フォローすべきアカウント
 
-[@TJO_datasci](https://twitter.com/TJO_datasci)  
-Googleで働くTJO御大のアカウント。ブログ([渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/))も必見です。
-
 [@kazunori_279](https://twitter.com/kazunori_279)  
 GoogleでDeveloper Advocateとして働く佐藤さんのアカウント。AIに関する情報発信、TensorFlow User Group勉強会の開催などしています。
+
+[@TJO_datasci](https://twitter.com/TJO_datasci)  
+Googleで働くTJO御大のアカウント。ブログ([渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/))も必見です。
 
 [@KzhtTkhs](https://twitter.com/KzhtTkhs)  
 現役のエンジニア。AIを使った画像処理ソフトなど開発して公開しています。Deep写輪眼開発者
@@ -56,3 +56,6 @@ UdemyでAIの講師をしているアルカディア・システムズ㈱のフ�
 
 [@yutatatatata](https://twitter.com/yutatatatata)  
 ブレインパッド社のデータサイエンティスト、吉田勇太さん。勉強会・イベントを自ら積極的に企画し、情報発信をされています。
+
+[@ksasao](https://twitter.com/ksasao)  
+ミクミンPさんです。M5StickVでうごくAIアプリをはじめとして、さまざまなものづくりをされています。
