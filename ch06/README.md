@@ -21,3 +21,4 @@
 - [[Tensorflow Lite] Various Neural Network Model quantization methods for Tensorflow Lite (Weight Quantization, Integer Quantization, Full Integer Quantization, Float16 Quantization, EdgeTPU). As of May 05, 2020.](https://qiita.com/PINTO/items/008c54536fca690e0572) 
 - [Raspberry Pi4 単体で TensorFlow Lite はどれくらいの速度で動く？](https://qiita.com/terryky/items/243000fcfcb89af11510) 
 - [M5StickVで超お手軽エッジAI画像認識](https://karaage.hatenadiary.jp/entry/2019/08/14/073000)
+- [Raspberry Pi 4のディープラーニングで画像認識する環境をゼロから1時間で構築する方法](https://karaage.hatenadiary.jp/entry/rpi4-dl-setup)
