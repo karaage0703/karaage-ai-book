@@ -24,4 +24,7 @@
 ## 関連リンク
 　書籍で取り上げたリンクです。
 
-- [GCPでのディープラーニング学習環境構築方法](https://qiita.com/karaage0703/items/77d6d75db9105a5e8983)
+- [GCPでのディープラーニング学習環境構築方法](https://qiita.com/karaage0703/items/77d6d75db9105a5e8983)  
+Google Cloud Platform(GCP)でGoogle Colab感覚でディープラーニングを実践するためのチュートリアル
+- [AIでNARUTO気分！「Deep写輪眼」で遊んでみよう](https://karaage.hatenadiary.jp/entry/2020/10/16/073000)  
+AIで漫画「NARUTO」の写輪眼を再現するソフト「Deep写輪眼」を手軽に使うためのチュートリアル的な記事
