@@ -3,16 +3,13 @@
 　書籍内で紹介したオススメの書籍やサイトの情報
 
 ## 書籍情報
-[人工知能は人間を超えるか](https://amzn.to/2IhvPEj)
-
-[Jetson Nano超入門](https://amzn.to/3eGIEUJ)
-
+　以下記事にまとめています。参照ください。
+ 
 [機械学習・ディープラーニング関係の初心者が独学するのにオススメの書籍](https://karaage.hatenadiary.jp/entry/2020/06/15/073000)
 
-## 参考情報
+## 参考リンク
 
 [Pythonで基礎から機械学習まとめ](https://karaage.hatenadiary.jp/machine-learning-study)
-
 
 ## フォローすべきアカウント
 
@@ -45,3 +42,6 @@ UdemyでAIの講師をしているアルカディア・システムズ㈱のフ�
 
 [@ksasao](https://twitter.com/ksasao)  
 ミクミンPさんです。M5StickVでうごくAIアプリをはじめとして、さまざまなものづくりをされています。
+
+[@maskedanl](https://twitter.com/maskedanl)  
+自称「イキリ・データサイエンティスト」マスクド・アナライズさん。AI業界事情に詳しく、ビジネス寄りの発信をされています。
