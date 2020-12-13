@@ -39,7 +39,7 @@ AIで漫画「NARUTO」の写輪眼を再現するソフト「Deep写輪眼」�
 [@TJO_datasci](https://twitter.com/TJO_datasci)  
 Googleで働くTJO御大のアカウント。ブログ([渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/))も必見です。
 
-[@kazunori_279](https://twitter.com/kazunori_279)
+[@kazunori_279](https://twitter.com/kazunori_279)  
 GoogleでDeveloper Advocateとして働く佐藤さんのアカウント。AIに関する情報発信、TensorFlow User Group勉強会の開催などしています。
 
 [@KzhtTkhs](https://twitter.com/KzhtTkhs)  
