@@ -28,7 +28,7 @@
 
 - [青空文庫のGitHubリポジトリ](https://github.com/aozorabunko/aozorabunko)
 - [2019年末版 形態素解析器の比較](https://qiita.com/hi-asano/items/aaf406db875f1c81530e)
-- [OpenBrainPad Project](https://brainpad.github.io/OpenBrainPad/)
+- [OpenBrainPad Project](https://brainpad.github.io/OpenBrainPad/)  
 データ分析会社、ブレインパッド社の有志メンバーが公開する、ブレインパッド社内の貴重な技術情報。スライドは必見
-- [白金鉱業.FM](https://shirokane-kougyou.fm/)
+- [白金鉱業.FM](https://shirokane-kougyou.fm/)  
 データ分析会社、ブレインパッド社の有志メンバーが配信する、データサイエンス・AI関係の音声配信
