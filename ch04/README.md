@@ -9,9 +9,8 @@
 | [04_karaage_ai_book_gan_generator.ipynb](https://colab.research.google.com/drive/15JVOjr_YEJncaoyQyS41uNcEZ3ThpYfO?usp=sharing)  | GANを使った画像生成 |
 | [04_karaage_ai_book_style_gan.ipynb](https://colab.research.google.com/drive/1LDWkrcqKhpQx4PqEhX6KRZn4nuBbn9PM?usp=sharing)  | StyleGanで架空の人物を生成 |
 
-## 関連ノートブックリンク
-　書籍で取り上げたノートブックへのリンクです。
+## 関連リンク
+　書籍で取り上げたリンク・関連する情報です。
 
-| Link  | Description |
-|:-|:-|
-|  |  |
+- [Archival Archetypingプロジェクトページ](https://archival-archetyping.github.io/)
+- [[Archival Archetyping紹介ページ](https://www.iamas.ac.jp/projects/archival-archetyping/)
