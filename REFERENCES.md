@@ -34,6 +34,15 @@ TensorFlowのビルドとAIモデルの量子化に命を燃やす、最速の�
 [@Taisuke_Ito](https://twitter.com/Taisuke_Ito)  
 UdemyでAIの講師をしているアルカディア・システムズ㈱のフェロー伊藤泰輔さん。分かりやすくAIに関する解説をしています。
 
+[@izariuo440](https://twitter.com/izariuo440)  
+AIベンチャーOPTiMのエンジニアのOKUMURA Yoshioさん。エッジコンピューティングに関する貴重なノウハウを社内ブログで発信しています。
+
+[@upura0](https://twitter.com/upura0)  
+u++のハンドルネームで有名なデータサイエンティスト。Kaggle情報を中心に情報発信をしています。
+
+[@currypurin](https://twitter.com/currypurin)  
+カレーちゃんさん。公務員を辞め専業Kagglerとなる異色の経歴の持ち主です。今はAIエンジニアとして働きながらKaggle情報を中心に情報発信しています。
+
 [@hampen2929](https://twitter.com/hampen2929/)  
 現役のデータサイエンティスト。姿勢推定技術をつかってスポーツ（主にテニス）の分析をしています。
 
