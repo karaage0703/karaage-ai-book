@@ -12,6 +12,16 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karaage0703/karaage-ai-book/blob/master)
 
+| Chapter  | Description |
+|:-|:-|
+| [ch01](./ch01)  | AIの概要 |
+| [ch02](./ch02) | 画像認識 |
+| [ch03](./ch03) | 自然言語処理 |
+| [ch04](./ch04) | 画像生成 |
+| [ch05](./ch05) | 姿勢推定 |
+| [ch06](./ch06) | エッジコンピューティング |
+| ch07 | まとめと今後の学習方法 |
+
 ## 正誤表
 
 　書籍の正誤表は、本リポジトリの[ERRATA](./ERRATA.md)にまとめます。
