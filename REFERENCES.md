@@ -30,3 +30,6 @@
 | [@yutatatatata](https://twitter.com/yutatatatata) | ブレインパッド社のデータサイエンティスト、吉田勇太さん。勉強会・イベントを自ら積極的に企画し、情報発信をされています。 |
 | [@ksasao](https://twitter.com/ksasao) | ミクミンPさんです。M5StickVでうごくAIアプリをはじめとして、さまざまなものづくりをされています。 |
 | [@maskedanl](https://twitter.com/maskedanl) | 自称「イキリ・データサイエンティスト」マスクド・アナライズさん。AI業界事情に詳しく、ビジネス寄りの発信をされています。 |
+| [@Vengineer](https://twitter.com/Vengineer) | 現役のエンジニアであるVengineerさん。エッジコンピューティングを中心に、ローレイヤー周りの情報を発信されています。 |
+| [@yukihiko_a](https://twitter.com/yukihiko_a) | 現役のエンジニアであるAoyagiさん。AIを使った姿勢推定のソフトを開発されています。 |
+| [@ML_deep](https://twitter.com/ML_deep) | HELLO CYBERNETICSのアカウント名と[同名のブログ](https://www.hellocybernetics.tech/)で有名。データサイエンス・統計・確率の深い情報を発信されています。 |
