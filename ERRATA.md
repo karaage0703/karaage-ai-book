@@ -4,4 +4,4 @@
 
 | 該当箇所 | 誤 | 正 | 備考 |
 | -- | -- | -- | -- |
-| P.73 下部 | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/util/colab_camera.py` | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/master/util/colab_camera.py` | #2 |
+| P.73 下部 | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/util/colab_camera.py` | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/master/util/colab_camera.py` | [#2](https://github.com/karaage0703/karaage-ai-book/issues/2) |
