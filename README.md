@@ -40,6 +40,12 @@
 [REFERENCES](./REFERENCES.md)
 
 　その他、本リポジトリの各章のディレクトリ（ch01, ch02... )のREADMEにも、書籍で扱った情報をまとめています。
+ 
+## 筆者情報
+　ブログやTwitterなどで情報発信しています。書籍で興味持たれた方は、是非フォローしてください。
+
+- Blog: [karaage.](https://karaage.hatenadiary.jp/)
+- Twitter: [からあげ@karaage0703](https://twitter.com/karaage0703)
 
 ## ライセンス
 
