@@ -6,6 +6,27 @@
 <img src="images/cover_1.jpg" width="200">
 </div>
 
+　購入先は以下となります。
+
+[Amazon（紙書籍）](https://amzn.to/3ob248p)
+
+[Kindle（電子書籍）](https://amzn.to/3rRIqk0)
+
+[楽天Kobo（電子書籍）](https://books.rakuten.co.jp/rk/fed3eb13b0f9344194d76266eda35308/)
+
+
+## 書籍の紹介・レビュー
+
+　書籍内容の紹介やレビューの記事です。書籍の内容を知りたい方、購入迷っている方は参考にしてみてください。
+ 
+[AI初心者向けの独学本「からあげ先生のとにかく楽しいAI自作教室」を執筆しました](https://karaage.hatenadiary.jp/entry/2020/12/11/073000)
+
+[Amazonのレビュー](https://www.amazon.co.jp/gp/product/4296108409/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=k-gh-22&linkId=54cd42867b90515f0358367c7d8535d6#customerReviews)
+
+[『からあげ先生のとにかく楽しいAI自作教室』の感想文](https://cpp-learning.com/karaage-ai/)
+
+[突然の朗報：「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」電子書籍版発売開始🦔！！](https://kazuhito00.hatenablog.com/entry/2020/12/23/002925)
+
 ## Google Colab ノートブック
 
 　以下のアイコンをクリックすると、Google Colab上で本リポジトリのノートブックを実行できます。
