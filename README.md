@@ -12,8 +12,9 @@
 
 [Kindle（電子書籍）](https://amzn.to/3rRIqk0)
 
-[楽天Kobo（電子書籍）](https://books.rakuten.co.jp/rk/fed3eb13b0f9344194d76266eda35308/)
+[楽天（紙書籍）](https://books.rakuten.co.jp/rb/16585748/)
 
+[楽天Kobo（電子書籍）](https://books.rakuten.co.jp/rk/fed3eb13b0f9344194d76266eda35308/)
 
 ## 書籍の紹介・レビュー
 
