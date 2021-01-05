@@ -54,7 +54,7 @@
 
 　本書の質問に対しては、本リポジトリの[Issues](https://github.com/karaage0703/karaage-ai-book/issues)で扱います。
 
-　重要な質問に関しては、今後ページを作成してまとめていきます。
+　過去の質問と回答に関しては[Questionラベルがついたissue](https://github.com/karaage0703/karaage-ai-book/issues?q=is%3Aissue+label%3Aquestion)を参照ください。
 
 ## 参考書籍・参考サイト・論文
 　書籍で紹介した、書籍、サイト、論文の情報は、以下参照ください。
