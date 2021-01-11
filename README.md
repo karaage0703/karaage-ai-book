@@ -46,15 +46,15 @@
 
 ## 正誤表
 
-　書籍の正誤表は、本リポジトリの[ERRATA](./ERRATA.md)にまとめます。
+　書籍の正誤表は、本リポジトリの[ERRATA](./ERRATA.md)にまとめています。
 
-　本書の誤記の連絡は、お手数ですが本リポジトリの[Issues](https://github.com/karaage0703/karaage-ai-book/issues)に投稿をお願いいたします。
+　本書の誤記の連絡は、お手数ですが本リポジトリの[Issues](https://github.com/karaage0703/karaage-ai-book/issues)に投稿をお願いいたします。確認中の誤記に関しては[誤記のラベルがついたissue](https://github.com/karaage0703/karaage-ai-book/issues?q=is%3Aissue+label%3A%E8%AA%A4%E8%A8%98)を参照ください。
  
 ## よくある質問（FAQ)
 
-　本書の質問に対しては、本リポジトリの[Issues](https://github.com/karaage0703/karaage-ai-book/issues)で扱います。
+　本書のよくある質問と回答を[FAQ](./FAQ.md)にまとめています。
 
-　過去の質問と回答に関しては[Questionラベルがついたissue](https://github.com/karaage0703/karaage-ai-book/issues?q=is%3Aissue+label%3Aquestion)を参照ください。
+　質問に関しては、本リポジトリの[Issues](https://github.com/karaage0703/karaage-ai-book/issues)で受け付けています。過去の質問と回答に関しては[Questionのラベルがついたissue](https://github.com/karaage0703/karaage-ai-book/issues?q=is%3Aissue+label%3Aquestion)を参照ください。
 
 ## 参考書籍・参考サイト・論文
 　書籍で紹介した、書籍、サイト、論文の情報は、以下参照ください。
