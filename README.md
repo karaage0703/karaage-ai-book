@@ -28,6 +28,8 @@
 
 [突然の朗報：「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」電子書籍版発売開始🦔！！](https://kazuhito00.hatenablog.com/entry/2020/12/23/002925)
 
+[書評「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」](https://note.com/maskedanl/n/n705a7c5d0257)
+
 ## Google Colab ノートブック
 
 　以下のアイコンをクリックすると、Google Colab上で本リポジトリのノートブックを実行できます。
