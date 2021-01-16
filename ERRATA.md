@@ -21,5 +21,5 @@
 | P.162 2つめのテキストボックス内2行目 | `encoding='shift_jis'` | `encoding='utf-8'` | [#13](https://github.com/karaage0703/karaage-ai-book/issues/13) |
 | P.186 最下行 | `model.eval()` | `model_mask.eval()` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
 | P.187 1つ目のテキストボックス3行目 | `outputs = model(tokens_tensor)` | `outputs = model_mask(tokens_tensor)` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
-
+| P.92 中ほど | ki_concat.jpg（画像名） | concat.jpg（画像名） | [#15](https://github.com/karaage0703/karaage-ai-book/issues/15) |
 
