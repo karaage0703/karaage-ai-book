@@ -12,6 +12,7 @@
 | P.73 下部 | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/util/colab_camera.py` | `!wget https://raw.githubusercontent.com/karaage0703/karaage-ai-book/master/util/colab_camera.py` | [#2](https://github.com/karaage0703/karaage-ai-book/issues/2) |
 | P.75, P.246, P.255 | `img_str = encimg.tostring()` | `img_str = encimg.tobytes()` | [#4](https://github.com/karaage0703/karaage-ai-book/issues/4), [#20](https://github.com/karaage0703/karaage-ai-book/issues/20) |
 | P.76 中ほど | `use_cam()` | `colab_camera.use_cam()` | [#3](https://github.com/karaage0703/karaage-ai-book/issues/3) |
+| P.92 中ほど | ki_concat.jpg（画像名） | concat.jpg（画像名） | [#15](https://github.com/karaage0703/karaage-ai-book/issues/15) |
 | P.96 | `!cp '/content/drive/My Drive/my_model.h5' './my_model.h5'` | `!cp '/content/drive/My Drive/my_model_aug.h5' './my_model_aug.h5'` | [#7](https://github.com/karaage0703/karaage-ai-book/issues/7) |
 | P.97の1行目 | `keras_model = tf.keras.models.load_model("efficientnet_model.h5")` | `import tensorflow_hub as hub`<br>`keras_model = tf.keras.models.load_model("efficientnet_model.h5", custom_objects={'KerasLayer':hub.KerasLayer})` | [#6](https://github.com/karaage0703/karaage-ai-book/issues/6) |
 | P.100の前半 | サボートサイト | サポートサイト | [#9](https://github.com/karaage0703/karaage-ai-book/issues/9) |
@@ -21,5 +22,5 @@
 | P.162 2つめのテキストボックス内2行目 | `encoding='shift_jis'` | `encoding='utf-8'` | [#13](https://github.com/karaage0703/karaage-ai-book/issues/13) |
 | P.186 最下行 | `model.eval()` | `model_mask.eval()` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
 | P.187 1つ目のテキストボックス3行目 | `outputs = model(tokens_tensor)` | `outputs = model_mask(tokens_tensor)` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
-| P.92 中ほど | ki_concat.jpg（画像名） | concat.jpg（画像名） | [#15](https://github.com/karaage0703/karaage-ai-book/issues/15) |
+| P.298 下から2つめのテキストボックス | `keras_model = ...` | `keras_mnist_model = ...` | [#17](https://github.com/karaage0703/karaage-ai-book/issues/17) |
 
