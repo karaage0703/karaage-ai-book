@@ -13,7 +13,8 @@
 | P.75, P.246, P.255 | `img_str = encimg.tostring()` | `img_str = encimg.tobytes()` | [#4](https://github.com/karaage0703/karaage-ai-book/issues/4), [#20](https://github.com/karaage0703/karaage-ai-book/issues/20) |
 | P.76 中ほど | `use_cam()` | `colab_camera.use_cam()` | [#3](https://github.com/karaage0703/karaage-ai-book/issues/3) |
 | P.96 | `!cp '/content/drive/My Drive/my_model.h5' './my_model.h5'` | `!cp '/content/drive/My Drive/my_model_aug.h5' './my_model_aug.h5'` | [#7](https://github.com/karaage0703/karaage-ai-book/issues/7) |
-| P.97 の 1 行目 | `keras_model = tf.keras.models.load_model("efficientnet_model.h5")` | `import tensorflow_hub as hub`<br>`keras_model = tf.keras.models.load_model("efficientnet_model.h5", custom_objects={'KerasLayer':hub.KerasLayer})` | [#6](https://github.com/karaage0703/karaage-ai-book/issues/6) |
+| P.97の1行目 | `keras_model = tf.keras.models.load_model("efficientnet_model.h5")` | `import tensorflow_hub as hub`<br>`keras_model = tf.keras.models.load_model("efficientnet_model.h5", custom_objects={'KerasLayer':hub.KerasLayer})` | [#6](https://github.com/karaage0703/karaage-ai-book/issues/6) |
+| P.100の前半 | サボートサイト | サポートサイト | [#9](https://github.com/karaage0703/karaage-ai-book/issues/9) |
 
 
 
