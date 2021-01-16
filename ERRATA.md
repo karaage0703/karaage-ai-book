@@ -16,4 +16,5 @@
 | P.97の1行目 | `keras_model = tf.keras.models.load_model("efficientnet_model.h5")` | `import tensorflow_hub as hub`<br>`keras_model = tf.keras.models.load_model("efficientnet_model.h5", custom_objects={'KerasLayer':hub.KerasLayer})` | [#6](https://github.com/karaage0703/karaage-ai-book/issues/6) |
 | P.100の前半 | サボートサイト | サポートサイト | [#9](https://github.com/karaage0703/karaage-ai-book/issues/9) |
 | P.152中ほど | `history = model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS)` | `history = model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, callbacks=[print_callback])` | [#10](https://github.com/karaage0703/karaage-ai-book/issues/10) |
-| P.155のテキストボックス内2段落目 | `char_numb = 100 diversity = 1.0` | `diversity = 1.0` | [#11](https://github.com/karaage0703/karaage-ai-book/issues/11) |
+| P.155 テキストボックス内2段落目 | `char_numb = 100 diversity = 1.0` | `diversity = 1.0` | [#11](https://github.com/karaage0703/karaage-ai-book/issues/11) |
+| P.161 1行目 | `text = normalize_text(text)` | （削除） | [#12](https://github.com/karaage0703/karaage-ai-book/issues/12) |
