@@ -23,3 +23,14 @@
 ```
 
 参考： [#4](https://github.com/karaage0703/karaage-ai-book/issues/4)
+
+## P.281: スクリプト inspect_camera_pi.py がエラーで終了します
+
+　バージョン不一致によるエラーが発生するケースがあるようです。以下コマンドを実行ください。
+
+```sh
+$ sudo pip3 uninstall h5py
+$ sudo pip3 install h5py==2.10.0
+```
+
+参考： [#16](https://github.com/karaage0703/karaage-ai-book/issues/16)
