@@ -18,6 +18,7 @@
 | P.100の前半 | サボートサイト | サポートサイト | [#9](https://github.com/karaage0703/karaage-ai-book/issues/9) |
 | P.152中ほど | `history = model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS)` | `history = model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, callbacks=[print_callback])` | [#10](https://github.com/karaage0703/karaage-ai-book/issues/10) |
 | P.155 テキストボックス内2段落目 | `char_numb = 100 diversity = 1.0` | `diversity = 1.0` | [#11](https://github.com/karaage0703/karaage-ai-book/issues/11) |
+| P.160 3つめのテキストボックス1行目 | `import urllib` | `import urllib.request` | [#22](https://github.com/karaage0703/karaage-ai-book/issues/22) |
 | P.161 1行目 | `text = normalize_text(text)` | （削除） | [#12](https://github.com/karaage0703/karaage-ai-book/issues/12) |
 | P.162 2つめのテキストボックス内2行目 | `encoding='shift_jis'` | `encoding='utf-8'` | [#13](https://github.com/karaage0703/karaage-ai-book/issues/13) |
 | P.186 最下行 | `model.eval()` | `model_mask.eval()` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
