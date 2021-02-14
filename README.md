@@ -34,6 +34,8 @@
 
 [「人気ブロガーからあげ先生のとにかく楽しいAI自作教室」でAIの実用性を体感してみよう](https://temcee.hatenablog.com/entry/karaage_book)
 
+[『からあげ先生のとにかく楽しいAI自作教室』を読むとこんなことができたという報告](https://siroitori.hatenablog.com/entry/2021/02/14/210847)
+
 ## Google Colab ノートブック
 
 　以下のアイコンをクリックすると、Google Colab上で本リポジトリのノートブックを実行できます。
