@@ -23,5 +23,6 @@
 | P.162 2つめのテキストボックス内2行目 | `encoding='shift_jis'` | `encoding='utf-8'` | [#13](https://github.com/karaage0703/karaage-ai-book/issues/13) |
 | P.186 最下行 | `model.eval()` | `model_mask.eval()` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
 | P.187 1つ目のテキストボックス3行目 | `outputs = model(tokens_tensor)` | `outputs = model_mask(tokens_tensor)` | [#14](https://github.com/karaage0703/karaage-ai-book/issues/14) |
+| P.250の下1/3のあたり | 骨格を描画しているのは「estimator.py」の「PoseEstimator」というクラス | 骨格を描画しているのは「estimator.py」の「TfPoseEstimator」というクラス | [#25](https://github.com/karaage0703/karaage-ai-book/issues/25) |
 | P.296 中ほど | Google Colabのノートブックで実践していきます。 | Google Colabのノートブック「06_karaage_ai_book_tflite_convert.ipynb」で実践していきます。 | [#18](https://github.com/karaage0703/karaage-ai-book/issues/18) |
 | P.298 下から2つめのテキストボックス | `keras_model = ...` | `keras_mnist_model = ...` | [#17](https://github.com/karaage0703/karaage-ai-book/issues/17) |
