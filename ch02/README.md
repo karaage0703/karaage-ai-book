@@ -13,6 +13,8 @@
 | [02_karaage_ai_book_image_classification_on_camera_2.ipynb](https://colab.research.google.com/drive/1St8V0KmbhBHzHtTRltoR4tFNi3e1VR9o?usp=sharing) | 画像分類リアルタイムデモ（性能向上版） |
 | [02_karaage_ai_book_image_classification_grad_cam.ipynb](https://colab.research.google.com/drive/19l49Pni9z9QPz_tydu4U0ZpISR03VgdL?usp=sharing) | Grad CAMによる可視化 |
 
+### 注記
+「AIモデル性能向上」にて、コードのミスにより正しく性能が発揮できていない誤りがありました。ノートブックの方は、修正いたしました。[#26](https://github.com/karaage0703/karaage-ai-book/issues/26)のissueも合わせて参照ください。
 
 ## 関連ノートブックリンク
 　書籍で取り上げたノートブックへのリンクです。
