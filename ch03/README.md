@@ -32,3 +32,10 @@
 データ分析会社、ブレインパッド社の有志メンバーが公開する、ブレインパッド社内の貴重な技術情報。スライドは必見
 - [白金鉱業.FM](https://shirokane-kougyou.fm/)  
 データ分析会社、ブレインパッド社の有志メンバーが配信する、データサイエンス・AI関係の音声配信
+
+### Transformer・Attention関係のリンク
+- [Attentionとは何か（YouTube動画）](https://www.youtube.com/watch?v=dE4Z3Ru-2OY)
+- [論文解説 Attention Is All You Need (Transformer)](https://deeplearning.hatenablog.com/entry/transformer)
+- [作って理解する Transformer / Attention](https://qiita.com/halhorn/items/c91497522be27bde17ce)
+- [全日本CV勉強会発表資料 Learning Transformer in 40 Minutes](https://speakerdeck.com/sei88888/quan-ri-ben-cvmian-qiang-hui-fa-biao-zi-liao-learning-transformer-in-40-minutes)
+- [2021/04/18 第6回全日本コンピュータビジョン勉強会「Transformer論文読み会」発表資料まとめ](https://takmin.hatenablog.com/entry/2021/04/19/005155)
