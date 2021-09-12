@@ -2,6 +2,8 @@
 
 現時点で判明している誤植を掲載しています。重版時に修正予定です。
 
+正誤表には誤植だけでなく、ソフトウェアのバージョンアップに伴う、コードの修正も含んでいます。
+
 表で見辛い箇所、訂正の理由を知りたい場合は、詳細の項目のリンク先を参照ください。
 
 また、重要な修正内容に関しては、[FAQ](./FAQ.md)にまとめていますので、そちらも参照ください。
@@ -27,3 +29,4 @@
 | P.250の下1/3のあたり | 骨格を描画しているのは「estimator.py」の「PoseEstimator」というクラス | 骨格を描画しているのは「estimator.py」の「TfPoseEstimator」というクラス | [#25](https://github.com/karaage0703/karaage-ai-book/issues/25) |
 | P.296 中ほど | Google Colabのノートブックで実践していきます。 | Google Colabのノートブック「06_karaage_ai_book_tflite_convert.ipynb」で実践していきます。 | [#18](https://github.com/karaage0703/karaage-ai-book/issues/18) |
 | P.298 下から2つめのテキストボックス | `keras_model = ...` | `keras_mnist_model = ...` | [#17](https://github.com/karaage0703/karaage-ai-book/issues/17) |
+| P.146 前半 | `from keras.optimizers import RMSprop` | `from tensorflow.keras.optimizers import RMSprop` | [#31](https://github.com/karaage0703/karaage-ai-book/issues/31) |
