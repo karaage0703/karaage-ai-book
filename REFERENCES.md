@@ -9,7 +9,11 @@
 
 ## 参考リンク
 
-[Pythonで基礎から機械学習まとめ](https://karaage.hatenadiary.jp/machine-learning-study)
+[Pythonで基礎から機械学習まとめ](https://karaage.hatenadiary.jp/machine-learning-study)  
+機械学習の基礎に興味を持った方向けの記事です。
+
+[ゲーミングPCのローカルディープラーニング環境セットアップ](https://zenn.dev/karaage0703/articles/e5c0943a3ad2db)  
+Google Colabでなく、ローカルマシンで書籍の内容を試したい方の記事です。中級者以上の方を想定しています。初学者の方には、Google Colabで学習することをお勧めします。
 
 ## フォローすべきアカウント
 
