@@ -40,4 +40,4 @@
 - [全日本CV勉強会発表資料 Learning Transformer in 40 Minutes](https://speakerdeck.com/sei88888/quan-ri-ben-cvmian-qiang-hui-fa-biao-zi-liao-learning-transformer-in-40-minutes)
 - [2021/04/18 第6回全日本コンピュータビジョン勉強会「Transformer論文読み会」発表資料まとめ](https://takmin.hatenablog.com/entry/2021/04/19/005155)
 - [ビジョン・トランスフォーマーはなぜCNNより強い？その仕組みを解明【論文速報】](https://ja.stateofaiguides.com/20211011-vision-transformers-vs-convnet/)
-
+- [社内勉強会報告：Transformer最新動向](https://tech-ai.panasonic.com/jp/blog_page.html?id=20211022)
