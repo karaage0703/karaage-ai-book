@@ -12,7 +12,7 @@
 | [02_karaage_ai_book_image_classification_performance.ipynb](https://colab.research.google.com/drive/1eXMZxk565Ibyh3VDesOFtWRMNMQeHf8-?usp=sharing) | AIモデル性能向上 |
 | [02_karaage_ai_book_image_classification_on_camera_2.ipynb](https://colab.research.google.com/drive/1St8V0KmbhBHzHtTRltoR4tFNi3e1VR9o?usp=sharing) | 画像分類リアルタイムデモ（性能向上版） |
 | [02_karaage_ai_book_image_classification_grad_cam.ipynb](https://colab.research.google.com/drive/19l49Pni9z9QPz_tydu4U0ZpISR03VgdL?usp=sharing) | Grad CAMによる可視化 |
-| [02_karaage_ai_book_image_classification_viz_grad_cam.ipynb](https://colab.research.google.com/drive/19l49Pni9z9QPz_tydu4U0ZpISR03VgdL?usp=sharing) | Grad CAMによる可視化(VizGradCAM使用） |
+| [02_karaage_ai_book_image_classification_viz_grad_cam.ipynb](https://colab.research.google.com/drive/1VbI18g1uw6_5ETc8VdzwBt0_XTGkceho?usp=sharing) | Grad CAMによる可視化(VizGradCAM使用） |
 
 
 ### 注記
