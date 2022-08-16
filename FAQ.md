@@ -43,6 +43,22 @@ Upload widget is only available when the cell has been executed in the current b
 
 参考： [#4](https://github.com/karaage0703/karaage-ai-book/issues/4)
 
+
+## P.242: `%tensorflow_version 1.x`で`Tensorflow 1 is unsupported in Colab.`と表示される
+
+ Google Colabの仕様変更によるエラーです。
+
+`%tensorflow_version 1.x`の代わりに `!pip install tensorflow-gpu==1.15.2` を入力ください。
+
+
+Google Colabのノートブックも修正しています。Google Colab ノートブック メニューの「ランタイム -> ランタイムのタイプを変更」でハードウェア アクセラレータがGPUになっていることを確認ください。
+
+https://colab.research.google.com/drive/1dtBgF774jFSc405ik4C1Em0KM8IYUvTX?usp=sharing
+
+参考： [#36](https://github.com/karaage0703/karaage-ai-book/issues/36)
+
+
+
 ## P.281: スクリプト inspect_camera_pi.py がエラーで終了します
 
 　バージョン不一致によるエラーが発生するケースがあるようです。以下コマンドを実行ください。
