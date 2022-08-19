@@ -43,6 +43,28 @@ Upload widget is only available when the cell has been executed in the current b
 
 参考： [#4](https://github.com/karaage0703/karaage-ai-book/issues/4)
 
+## P.201 Kerasインポート時に `ImportError: cannot import name 'get_config' from 'tensorflow.python.eager.context'` とエラーが出る
+
+ Google Colabの仕様変更によるエラーです。
+
+```
+%tensorflow_version 1.x
+```
+
+を以下の通り置き換えることで正しく動作すること確認できました。
+
+```
+!pip install tensorflow-gpu==1.15.2
+!pip install keras==2.3.1
+```
+
+書籍で少しだけ触れていますが、このコードは単体のKerasを使用するため、Google Colabの仕様変更に対応するため、特定のバージョンを指定してKerasをインストールする必要がありました。
+
+Google Colabノートブックの方も修正していたしました。
+
+https://colab.research.google.com/drive/1d3HMpKMnVsaligeJAEeN9BV7uEbV5QRJ?usp=sharing
+
+参考： [#37](https://github.com/karaage0703/karaage-ai-book/issues/37)
 
 ## P.242: `%tensorflow_version 1.x`で`Tensorflow 1 is unsupported in Colab.`と表示される
 
