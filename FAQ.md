@@ -66,6 +66,24 @@ https://colab.research.google.com/drive/1d3HMpKMnVsaligeJAEeN9BV7uEbV5QRJ?usp=sh
 
 参考： [#37](https://github.com/karaage0703/karaage-ai-book/issues/37)
 
+## p223~のp226のノイズから画像を生成する部分で、エラーが出る
+
+　以下のようなGoogle Colabの仕様変更によるエラーが出ます。
+
+```
+InvalidArgumentError: Cannot assign a device for operation Gs/_Run/Gs/latents_in: {{node Gs/_Run/Gs/latents_in}} was explicitly assigned to /device:GPU:0 but available devices are [ /job:localhost/replica:0/task:0/device:CPU:0, /job:localhost/replica:0/task:0/device:XLA_CPU:0, /job:localhost/replica:0/task:0/device:XLA_GPU:0 ]. Make sure the device specification refers to a valid device.
+	 [[Gs/_Run/Gs/latents_in]]
+```
+
+　すぐ修正する方法がまだ見つかっていません。申し訳ありません。
+ 
+　代わりというわけではないのですが、画像生成AIの分野では、今はGANに変わってDiffusion Modelという手法が話題になっています。Diffusion Modelに関して、解説やGoogle Colabで動くノートブックをブログで公開しています。画像生成AIに興味ある方はこちらも参考にしていただけましたら幸いです。
+ 
+ [Stable Diffusionの内容を理解するための情報・書籍](https://karaage.hatenadiary.jp/entry/2022/09/23/073000)
+ 
+ [画像生成AI「Stable Diffusion」をGoogle ColaboratoryでWebアプリ的に簡単に動かすノートブックを作りました](https://karaage.hatenadiary.jp/entry/2022/08/29/073000)
+
+
 ## P.242: `%tensorflow_version 1.x`で`Tensorflow 1 is unsupported in Colab.`と表示される
 
  Google Colabの仕様変更によるエラーです。
