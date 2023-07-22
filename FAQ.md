@@ -43,6 +43,12 @@ Upload widget is only available when the cell has been executed in the current b
 
 参考： [#4](https://github.com/karaage0703/karaage-ai-book/issues/4)
 
+## P.172: ツイートをJSONファイルからテキストファイルに変換できない
+
+　Twitterの仕様変更によるものです。最新の形式に対応したノートブックを作成しましたので、以下を利用してください。
+
+[03_karaage_ai_book_tweet_to_text_2023.ipynb](https://github.com/karaage0703/karaage-ai-book/blob/master/ch03/03_karaage_ai_book_tweet_to_text_2023.ipynb)
+
 ## P.201 Kerasインポート時に `ImportError: cannot import name 'get_config' from 'tensorflow.python.eager.context'` とエラーが出る
 
  Google Colabの仕様変更によるエラーです。
