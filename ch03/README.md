@@ -1,5 +1,9 @@
 # 自然言語処理
 
+## 注記： Twitterの仕様変更により、P.172のツイートをJSONファイルからテキストファイルに変換はできなくなっています。最新の形式に対応したノートブックを作成しましたので、以下を利用してください。
+
+[03_karaage_ai_book_tweet_to_text_2023.ipynb](https://github.com/karaage0703/karaage-ai-book/blob/master/ch03/03_karaage_ai_book_tweet_to_text_2023.ipynb)
+
 ## ノートブックへのリンク
 　書籍で使用するメインのGoogle Colabノートブックへの個別のリンクは以下です。
 
