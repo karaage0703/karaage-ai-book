@@ -16,6 +16,7 @@
 | [03_karaage_ai_book_word_vector.ipynb](https://colab.research.google.com/drive/1HOt41KHpcIdeB5EWVsnM21Zwm8nZMG90?usp=sharing) | テキストのOne-Hot-ベクトル化 |
 | [03_karaage_ai_book_blog_to_text.ipynb](https://colab.research.google.com/drive/1kpCpvHZWmE6h4uKf65NlWiwP38gcpMxM?usp=sharing) | ブログデータのスクレイピング |
 | [03_karaage_ai_book_tweet_to_text.ipynb](https://colab.research.google.com/drive/1DkQ_AnDdrkLRBJPeInxHIQp1FZK0sMqj?usp=sharing) | Twitterのアーカイブをテキストデータへ変換 |
+| [03_karaage_ai_book_tweet_to_text_2023.ipynb](./03_karaage_ai_book_tweet_to_text_2023.ipynb) | X(Twitter)のアーカイブをテキストデータへ変換 2023年版 |
 | [03_karaage_ai_book_tweet_example.ipynb](https://colab.research.google.com/drive/1xkzT5lfhYNPRwA811SvrkpyUacIBTLPu?usp=sharing) | Twitterのデータを使った例 |
 | [03_karaage_ai_book_bert_example.ipynb](https://colab.research.google.com/drive/1tFI9H7DQyS2dyhWgKskfu_PpUcTSHdr_?usp=sharing) | BERTの使用例 |
 
