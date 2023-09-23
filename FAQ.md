@@ -43,6 +43,20 @@ Upload widget is only available when the cell has been executed in the current b
 
 参考： [#4](https://github.com/karaage0703/karaage-ai-book/issues/4)
 
+
+## P.122: `TypeError: __init__() got an unexpected keyword argument 'size'`が出る
+
+`size`を`vector_size`に修正する。
+
+参考：[#43](https://github.com/karaage0703/karaage-ai-book/issues/43)
+
+## P.123: vocabが使えない
+
+`for word in model.wv.vocab.keys():`を`for word in model.wv.index_to_keys():`に変更
+
+参考：[#43](https://github.com/karaage0703/karaage-ai-book/issues/43)
+
+
 ## P.172: ツイートをJSONファイルからテキストファイルに変換できない
 
 　Twitterの仕様変更によるものです。最新の形式に対応したノートブックを作成しましたので、以下を利用してください。
