@@ -21,6 +21,23 @@ Upload widget is only available when the cell has been executed in the current b
 
 　設定は、デフォルトの設定が「シークレットモードでサードパーティのCookieをブロックする」なので、特にこだわりなければそちらに設定するのが良いと思います。
 
+## P.53: `'DirectoryIterator' object has no attribute 'next'`とエラー表示
+仕様変更により発生します。
+
+以下を
+
+```
+(image_data, label_data) = train_data.next()
+```
+
+以下のように変更してください。
+
+```
+(image_data, label_data) = train_data.__next__()
+```
+
+参考：[#46](https://github.com/karaage0703/karaage-ai-book/issues/46)
+
 ## P.76: use_cam() が NameError になる
 
 　書籍の誤記となります。以下の通り修正ください。
@@ -65,7 +82,7 @@ Upload widget is only available when the cell has been executed in the current b
 
 ## P.201 Kerasインポート時に `ImportError: cannot import name 'get_config' from 'tensorflow.python.eager.context'` とエラーが出る
 
- Google Colabの仕様変更によるエラーです。
+Google Colabの仕様変更によるエラーです。
 
 ```
 %tensorflow_version 1.x
@@ -80,11 +97,16 @@ Upload widget is only available when the cell has been executed in the current b
 
 書籍で少しだけ触れていますが、このコードは単体のKerasを使用するため、Google Colabの仕様変更に対応するため、特定のバージョンを指定してKerasをインストールする必要がありました。
 
-Google Colabノートブックの方も修正していたしました。
+Google Colabノートブックの方も修正いたしました。
 
 https://colab.research.google.com/drive/1d3HMpKMnVsaligeJAEeN9BV7uEbV5QRJ?usp=sharing
 
 参考： [#37](https://github.com/karaage0703/karaage-ai-book/issues/37)
+
+
+（追記）：tensorflow_version 1.xは完全に使用できなくなりました。PyTorch版のノートブックを作成したので、以下を参照ください。
+
+https://github.com/karaage0703/karaage-ai-book/blob/master/ch04/04_karaage_ai_book_gan_trainer_pytorch.ipynb
 
 ## p223~のp226のノイズから画像を生成する部分で、エラーが出る
 
@@ -117,7 +139,11 @@ https://colab.research.google.com/drive/1dtBgF774jFSc405ik4C1Em0KM8IYUvTX?usp=sh
 
 参考： [#36](https://github.com/karaage0703/karaage-ai-book/issues/36)
 
+追記：tensorflow_version 1.xでは動かなくなったので、ノートブックを以下のように作成しなおしました。
 
+https://github.com/karaage0703/karaage-ai-book/blob/master/ch05/05_karaage_ai_book_pose_estimation_custom.ipynb
+
+参考： [#40](https://github.com/karaage0703/karaage-ai-book/issues/40)
 
 ## P.281: スクリプト inspect_camera_pi.py がエラーで終了します
 
